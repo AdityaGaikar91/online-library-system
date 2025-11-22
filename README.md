@@ -2,6 +2,9 @@
 
 This is a React application for an Online Library System, built with Vite and Redux Toolkit.
 
+## Project Repo
+https://github.com/AdityaGaikar91/online-library-system
+
 ## Features
 
 - **Home Page**: Welcome message, book categories, and popular books.
